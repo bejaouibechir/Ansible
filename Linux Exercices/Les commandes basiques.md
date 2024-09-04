@@ -1,4 +1,4 @@
-# Des exercices sur les commandes sous Linux Ubuntu 
+# Des exercices sur les commandes basiques sous Linux Ubuntu 
 ---
 
 ### **Exercice 1 : Naviguer dans les répertoires et explorer la structure**
